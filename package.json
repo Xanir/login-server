@@ -1,0 +1,14 @@
+{
+	"name": "login-server",
+	"version": "0.0.1",
+	"description": "Multi SSO and Private login server",
+	"scripts": {
+		"build": "grunt build",
+		"proxy": "grunt proxy",
+		"": ""
+	},
+	"author": "",
+	"dependencies": {
+		"express": "4.14.0"
+	}
+}
