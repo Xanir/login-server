@@ -1,0 +1,16 @@
+{
+	"hostUrl": "https://localhost:9090",
+	"OAuth2": [
+		{
+			"name": "facebook",
+			"baseUrl": "https://graph.facebook.com/v2.8",
+			"aquireCodeUrlPath": "https://www.facebook.com/v2.8/dialog/oauth",
+			"aquireTokenUrlPath": "/oauth/access_token",
+			"aquireIdUrlPath": "/me",
+			"aquireIdObjPath": "id",
+			"clientId": "945559118912903",
+			"clientSecret": "3aaad25bb8bc888d7a48804e1aa6ea71",
+			"": ""
+		}
+	]
+}

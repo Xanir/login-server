@@ -9,6 +9,7 @@
 	},
 	"author": "",
 	"dependencies": {
+		"node-forge": "0.6.47",
 		"express": "4.14.0"
 	}
 }
